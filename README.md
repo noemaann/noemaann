@@ -52,12 +52,6 @@
 | [**iedc-ecosystem**](https://github.com/noemaann/iedc-ecosystem) | Fork of the IEDC LBSCEK monorepo: public website, admin portal and REST API for events, registrations and check-ins. | React, Express, MongoDB |
 | [**MakerSpace**](https://github.com/noemaann/MakerSpace) | Fork of a Makerspace access control app with QR check-in, OTP member verification and photo capture. | Next.js, Firebase |
 
-## GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noemaann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemaann&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
 ## Currently
 
