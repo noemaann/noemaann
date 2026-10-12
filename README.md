@@ -47,11 +47,17 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Zluvians**](https://github.com/noemaann/Zluvians) | Zulu Memories: an interactive yearbook of 53 hostelites, committees and candid moments from Zulu Block, 2025–26. | HTML, CSS, JavaScript, Astro |
+| [**Localay**](https://github.com/noemaann/Localay) | Community-powered local discovery platform for hidden food spots, scenic places and auto-rickshaw fare comparison. Live at [localay.vercel.app](https://localay.vercel.app). | React, Vite, Tailwind CSS, Firebase |
 | [**face-reco**](https://github.com/noemaann/face-reco) | Offline CLI that sorts photos into per-person folders using face recognition. No cloud, no API keys. | Python, dlib |
 | [**iedc-ecosystem**](https://github.com/noemaann/iedc-ecosystem) | Fork of the IEDC LBSCEK monorepo: public website, admin portal and REST API for events, registrations and check-ins. | React, Express, MongoDB |
 | [**MakerSpace**](https://github.com/noemaann/MakerSpace) | Fork of a Makerspace access control app with QR check-in, OTP member verification and photo capture. | Next.js, Firebase |
 
+## GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=noemaann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noemaann&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
 ## Currently
 
